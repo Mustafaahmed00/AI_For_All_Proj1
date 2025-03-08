@@ -74,9 +74,6 @@ Student Sphere AI is a comprehensive 3-in-1 application designed to empower UMas
 
 Student Sphere AI aims to reduce the stress associated with college life by providing comprehensive tools for curriculum planning, translation, and career preparation.
 
-## Contact
-
-For more information, please contact the team members listed above.
 
 ## Acknowledgements
 
