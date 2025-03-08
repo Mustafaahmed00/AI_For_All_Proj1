@@ -21,13 +21,9 @@ Student Sphere AI is a comprehensive 3-in-1 application designed to empower UMas
 ## Technologies
 
 * **AI/ML Services:**
-    * Powers career preparation tools and curriculum planning.
 * **Next.js:**
-    * Used for front-end development.
 * **Clerk:**
-    * Provides secure user authentication.
 * **PostgreSQL:**
-    * Manages database operations.
 * **Google Cloud Translation API**
 * **LangChain**
 * **Prisma**
